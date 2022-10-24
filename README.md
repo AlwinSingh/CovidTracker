@@ -1,4 +1,4 @@
-# SGCovidTracker
+# CovidTracker
 
 This Web Application is built using Vue.JS and integrates publicly available APIs to display COVID-19 cases in Singapore.
 The API exposes parameters that allows for filtering which may be added into the Web Application in the future for modularity.
